@@ -2,7 +2,7 @@
 Estou sempre em busca de um desafio para codar e explorar novas tecnologias. Adoro aprender coisas novas e melhorar minhas habilidades para criar soluções inovadoras. Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso!
 
 <div>
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=lucasatdriano&show_icons=true&theme=dracula"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=lucasatdriano&show_icons=true&theme=dracula"/>
   <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasatdriano&hide_progress=false&theme=dracula"/>
 </div>
 
