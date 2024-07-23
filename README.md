@@ -20,19 +20,19 @@ Estou sempre em busca de um desafio para codar e explorar novas tecnologias. Ado
 <hr />
 
 <div>
-  <a href="https://instagram.com/__lgoncalves/">
+  <a href="https://instagram.com/__lgoncalves/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Lucas-Instagram" />
   </a>
-  <a href="https://linkedin.com/in/lucas-adriano-037003278/">
+  <a href="https://linkedin.com/in/lucas-adriano-037003278/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lucas-Linkedin" />
   </a>
-  <a href="mailto:lucasatdriano@gmail.com">
+  <a href="mailto:lucasatdriano@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Lucas-Gmail" />
   </a>
-  <a href="https://github.com/lucasatdriano/">
+  <a href="https://github.com/lucasatdriano/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Lucas-Github" />
   </a>
-  <a href="https://facebook.com/profile.php?id=61560521122739/">
+  <a href="https://facebook.com/profile.php?id=61560521122739/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Lucas-Facebook" />
   </a>
 </div>
