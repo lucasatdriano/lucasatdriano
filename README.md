@@ -38,7 +38,3 @@
 <br />
 
 Estou sempre em busca de um desafio para codar e explorar novas tecnologias. Adoro aprender coisas novas e melhorar minhas habilidades para criar soluções inovadoras. Sinta-se à vontade para explorar meus projetos.
-
-![snake gif](https://github.com/lucasatdriano/lucasatdriano/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=lucasatdriano&repo=lucasatdriano$theme=react)](https://github.vom/lucasatdriano/lucasatdriano)
