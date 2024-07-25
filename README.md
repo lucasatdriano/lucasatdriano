@@ -18,8 +18,8 @@
 <br/>
 
 <div>
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=lucasatdriano&show_icons=true&theme=dracula"/>
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasatdriano&hide_progress=false&theme=dracula"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=lucasatdriano&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasatdriano&hide_progress=false&theme=dracula"/>
 </div>
 
 ## Alguns dos meus conhecimentos
