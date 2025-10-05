@@ -64,7 +64,7 @@
 ### 🌐 Conecte-se comigo
 
 <div>
-  <a href="https://linkedin.com/in/lucas-adriano-037003278/" target="_blank" rel="noopener noreferrer">
+  <a href="[https://linkedin.com/in/lucas-adriano-037003278/](https://www.linkedin.com/in/lucasadrianodev/)" target="_blank" rel="noopener noreferrer">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lucas-Linkedin" />
   </a>
   <a href="https://instagram.com/__lgoncalves/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
