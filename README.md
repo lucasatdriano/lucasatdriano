@@ -64,14 +64,7 @@
 
 ### 🌐 Conecte-se comigo
 
-<div>
-  <a href="https://www.linkedin.com/in/lucasadrianodev/" target="_blank" rel="noopener noreferrer">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lucas-Linkedin" />
-  </a>
-  <a href="https://instagram.com/__lgoncalves/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-    <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Lucas-Instagram" />
-  </a>
-  <a href="mailto:lucasatdriano@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Lucas-Gmail" />
-  </a>
-</div>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasadrianodev/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasatdriano@gmail.com)
+
+  > ⚠️ Os links abrem na mesma página. Use **Ctrl + Click** (Windows/Linux) ou **Cmd + Click** (Mac) para abrir em nova aba.
